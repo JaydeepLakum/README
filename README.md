@@ -62,7 +62,7 @@
 
 Welcome to my LinkedIn profile! 👋 I am currently pursuing my Master's in Computer Science and Information Technology at CHARUSAT University, where I am immersed in the dynamic world of technology.
 
-💡 Skills: With a strong foundation in C, C++, HTML, CSS, JavaScript, .NET, SQL, PHP, Java, and Python, I bring a versatile skill set to the table. I thrive on tackling complex challenges and love to explore new technologies.
+💡 Skills: With a strong foundation in HTML, CSS, JavaScript, .NET, SQL, PHP, Java, and Python, I bring a versatile skill set to the table. I thrive on tackling complex challenges and love to explore new technologies.
 
 🌐 Full Stack Development: As a dedicated learner, I have hands-on experience in full-stack development. From designing responsive and user-friendly interfaces to crafting robust backend systems, I enjoy creating seamless and impactful web applications.
 
